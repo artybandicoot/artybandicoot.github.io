@@ -7,4 +7,4 @@ Practicing art is a way for me to learn to pay attention and notice things. What
 
 I live on Whadjuk Nyungar Boodja (Perth, Western Australia)
 
-Contact: <artybandicoot@gmail.com>
+Contact me (Karen) at <artybandicoot@gmail.com>
