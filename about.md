@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Doing art is a way for me to learn to pay attention and notice things. What it is I am actually paying attention to is a beautiful mystery.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I live on Whadjuk Nyungar Boodja (Perth, Western Australia)
