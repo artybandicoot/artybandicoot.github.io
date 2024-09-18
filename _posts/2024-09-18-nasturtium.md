@@ -3,4 +3,4 @@ layout: post
 title: nasturtium
 ---
 
-![[Github image]](master/images/nasturtium.jpg)
+![Github Image](/images/nasturtium.jpg)
