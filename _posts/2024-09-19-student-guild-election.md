@@ -2,7 +2,7 @@
 layout: post
 title: student guild elections
 ---
-![Github image](image/student-guild-election.jpg)
+![Github Image](/image/student-guild-election.jpg)
 
 I've noticed a difference in my experience of doing my art practice between drawing on location, and working from a photo.  I'm not saying one is better than the other, just different, and I'm curious to explore the differences.  These observations are based on my practice over the past week or so, when I have done two art practices while sitting outside somewhere and drawing my surroundings. 
 
