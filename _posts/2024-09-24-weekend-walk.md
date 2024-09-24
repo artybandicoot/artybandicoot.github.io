@@ -2,7 +2,7 @@
 layout: post
 title: weekend walk 
 ---
-![Github Images](/images/weekend-walk)
+![Github Images](/images/weekend-walk.jpg)
 
 
 I cross this bridge quite often one of my regular walks near my house.  The sign always makes me smile, I don't know why.  There are horses in our area, which is kind of semi-rural, but I've never seen anyone riding a horse around here.
