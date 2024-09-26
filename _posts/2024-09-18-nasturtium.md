@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nasturtium
+title: nasturtium (and making mistakes) 
 ---
 ![Github Image](/images/nasturtium.jpg)
 
