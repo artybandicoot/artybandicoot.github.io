@@ -1,6 +1,6 @@
 ---
 layout: post
-title: everlastings
+title: everlastings (and the paradox of joy) 
 ---
 ![GitHub Image](/images/everlastingdaisies.jpg)
 
