@@ -1,6 +1,6 @@
 ---
 layout: post
-title: student guild elections
+title: student guild elections (and drawing on location)
 ---
 ![Github Image](/images/student guild.jpg)
 
