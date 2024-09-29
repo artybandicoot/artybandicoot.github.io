@@ -3,5 +3,5 @@ layout: post
 title: community garden
 ---
 
-![Github Images](/image/community_garden.jpg)
+![Github Images](/image/community-garden.jpg)
 
