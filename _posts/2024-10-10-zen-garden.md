@@ -10,4 +10,4 @@ This feeling was reflected in my art practice.  My lines felt less confident, an
 
 The irony of the situation didn't escape me. 
 
-The focus of my attention was controlled more by the idea of the subject matter I wanted to draw (the outcome) than by my inner intuition. If I had immersed myself more fully in the experience itself,  I would have only been concerned about the shapes, lines and colours that were reaching out to me.   
+The focus of my attention was controlled primarily by the idea of the subject matter I wanted to draw (the outcome). If I had immersed myself more fully in the experience itself and followed by intuition,  I would have only been concerned about the shapes, lines and colours that were reaching out to me.   
