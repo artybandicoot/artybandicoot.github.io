@@ -1,6 +1,7 @@
 ---
 layout: post
 title: hurricane lamp
+date: 2024-09-07
 ---
 
 ![GitHub Image](/images/hurricanelamp.jpg)
