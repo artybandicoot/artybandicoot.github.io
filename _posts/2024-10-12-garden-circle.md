@@ -3,7 +3,7 @@ layout: post
 title: garden circle (and why I do a daily sketch)
 ---
 ![Github image](/images/garden-circle.jpg)
-
+---
 My daily sketches have felt pretty ordinary lately and I've not wanted to post them on the blog.  I posted them anyway, even though I don’t have to. Having days when I am not fully 'in the zone' is inevitable and perfectly normal.  However,  when it produces art that I don't connect with, it can end up feeling demotivating and discouraging. 
 
 Thinking about this led me to consider why I want to do a daily sketch.   I was reminded of Thich Nhat Hanh's story about why he does the dishes.  Yes, he does the dishes to make them clean, but he also does the dishes to, well, do the dishes:
