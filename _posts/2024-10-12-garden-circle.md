@@ -10,7 +10,7 @@ Thinking about this led me to consider why I want to do a daily sketch.   I was 
 
 > Washing the dishes is at the same time a means and an end. We do the dishes not only in order to have clean dishes, we also do the dishes just to do the dishes, to live fully in each moment while washing them, and to be truly in touch with life.
 
-It's circular logic par excellence.  I love circularity, the way it takes me back to where I started. Sometimes it's good to get off the straight and narrow path of linear logic, which seems to always be leading somewhere else, away from right here.  
+It's circular logic *par excellence*.  I love circularity, the way it takes me back to where I started. Sometimes it's good to get off the straight and narrow path of linear logic, which seems to always be leading somewhere else, away from right here.  
 
 So why am I doing a sketch each day?  To do a sketch each day.  But other answers are also good to think about, to help reconnect with the joy and inspiration I can feel when doing art.  
  
