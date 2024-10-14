@@ -2,4 +2,4 @@
 layout: post
 title: fruit bowl
 ---
-![Github image](fruit-bowl.jpg)
+![Github image](/images/fruit-bowl.jpg)
